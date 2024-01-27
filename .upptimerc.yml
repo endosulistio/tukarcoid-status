@@ -6,19 +6,15 @@ sites:
   - name: Tukarcoid
     url: https://tukar.co.id
     maxResponseTime: 2000
-    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
   - name: WSS Tukarcoid
     url: https://socket.tukar.co.id:6001/socket.io/
-      maxResponseTime: 2000
-    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
+    maxResponseTime: 2000
   - name: API Tukarcoid
     url: https://api.tukar.co.id
-      maxResponseTime: 2000
-    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
-  - name: PUSH Tukarcoid
-    url: https://push.tukar.co.
     maxResponseTime: 2000
-    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
+  - name: PUSH Tukarcoid
+    url: https://push.tukar.co.id
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
