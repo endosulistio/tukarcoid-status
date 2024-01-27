@@ -21,7 +21,6 @@ status-website:
   cname: status.tukar.co.id
   # baseUrl: /tukarcoid-status
   logoUrl: https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/icon.png
-  name: Tukarcoid Status
   introTitle: "About this site"
   introMessage:  Welcome to Tukarcoid real-time and historical data on system performance.
   navbar:
