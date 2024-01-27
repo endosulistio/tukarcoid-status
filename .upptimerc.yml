@@ -7,13 +7,10 @@ sites:
     url: https://tukar.co.id
     maxResponseTime: 2000
   - name: WSS Tukarcoid
-    url: https://socket.tukar.co.id:6001/socket.io/
-    maxResponseTime: 2000
-  - name: API Tukarcoid
-    url: https://api.tukar.co.id
+    url: https://socket.tukar.co.id:6001/socket.io/socket.io.js
     maxResponseTime: 2000
   - name: PUSH Tukarcoid
-    url: https://push.tukar.co.id
+    url: https://push.tukar.co.id/sms
     maxResponseTime: 2000
 
 status-website:
