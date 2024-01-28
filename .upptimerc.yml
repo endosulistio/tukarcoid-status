@@ -10,10 +10,6 @@ sites:
     url: https://socket.tukar.co.id:6001/socket.io/socket.io.js
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/favicon.ico
-  - name: PUSH Tukarcoid
-    url: https://push.tukar.co.id/sms
-    maxResponseTime: 2000
-    icon: https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/favicon.ico
 
 status-website:
   cname: status.tukar.co.id
