@@ -4,19 +4,19 @@
     "url": "https://tukar.co.id",
     "icon": "https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/favicon.ico",
     "slug": "tukarcoid",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 455,
-    "timeWeek": 917,
-    "timeMonth": 917,
-    "timeYear": 917,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
+    "time": 890,
+    "timeDay": 466,
+    "timeWeek": 890,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2024-01-31": 0
+      "2024-01-31": 65
     }
   },
   {
