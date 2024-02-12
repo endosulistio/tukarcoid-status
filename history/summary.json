@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/favicon.ico",
     "slug": "tukarcoid",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 789,
-    "timeDay": 515,
-    "timeWeek": 570,
-    "timeMonth": 789,
-    "timeYear": 789,
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 776,
+    "timeDay": 439,
+    "timeWeek": 561,
+    "timeMonth": 776,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2024-01-31": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1182,
-    "timeDay": 1326,
-    "timeWeek": 1265,
-    "timeMonth": 1182,
-    "timeYear": 1182,
+    "time": 1191,
+    "timeDay": 1400,
+    "timeWeek": 1276,
+    "timeMonth": 1191,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2024-01-27": 14
     }
