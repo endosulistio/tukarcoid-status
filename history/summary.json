@@ -4,7 +4,7 @@
     "url": "https://tukar.co.id",
     "icon": "https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/favicon.ico",
     "slug": "tukarcoid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 922,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2024-07-01": 0,
       "2024-06-10": 8,
       "2024-03-10": 24,
       "2024-02-29": 15,
