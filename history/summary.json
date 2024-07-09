@@ -4,19 +4,19 @@
     "url": "https://ilenpay.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/ilenpay.co.id.ico",
     "slug": "ilenpaycoid",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2435,
-    "timeDay": 2435,
-    "timeWeek": 2435,
-    "timeMonth": 2435,
-    "timeYear": 2435,
+    "status": "up",
+    "uptime": "96.56%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.56%",
+    "time": 2042,
+    "timeDay": 2042,
+    "timeWeek": 2042,
+    "timeMonth": 2042,
+    "timeYear": 2042,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 19
     }
   },
   {
