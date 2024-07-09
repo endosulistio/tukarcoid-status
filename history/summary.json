@@ -4,18 +4,20 @@
     "url": "https://ilenpay.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/ilenpay.co.id.ico",
     "slug": "ilenpaycoid",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 1136,
-    "timeWeek": 1136,
-    "timeMonth": 1136,
-    "timeYear": 1136,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2435,
+    "timeDay": 2435,
+    "timeWeek": 2435,
+    "timeMonth": 2435,
+    "timeYear": 2435,
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "Tukarcoid",
