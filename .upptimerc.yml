@@ -2,6 +2,9 @@ owner: endosulistio
 repo: tukarcoid-status
 
 sites:
+  - name: Ilenpay
+    url: https://ilenpay.co.id
+    maxResponseTime: 2000
   - name: Tukarcoid
     url: https://tukar.co.id
     maxResponseTime: 2000
