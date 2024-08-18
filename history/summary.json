@@ -54,7 +54,7 @@
     "url": "https://socket.tukar.co.id:6001/socket.io/socket.io.js",
     "icon": "https://raw.githubusercontent.com/endosulistio/tukarcoid-status/master/assets/favicon.ico",
     "slug": "wss-tukarcoid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -65,6 +65,8 @@
     "timeWeek": 1213,
     "timeMonth": 1173,
     "timeYear": 1201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-18": 0
+    }
   }
 ]
